@@ -1,1 +1,1 @@
-# my-ML-training
+# monkeypox-diagnosis
